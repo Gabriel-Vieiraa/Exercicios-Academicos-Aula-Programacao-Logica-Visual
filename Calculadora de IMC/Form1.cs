@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Gabriel Santos Vieira 4180108283
+//Atividades Propostas Lógica e Programação Visual
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -20,7 +22,7 @@ namespace Calculadora_de_IMC
 
         private void btncalcular_Click(object sender, EventArgs e)
         {
-            double imc, altura, peso;
+            double imc, altura, peso;2;
             peso = Convert.ToDouble(txtpeso.Text);
             altura = Convert.ToDouble(txtaltura.Text);
             imc = peso / (altura * altura);
