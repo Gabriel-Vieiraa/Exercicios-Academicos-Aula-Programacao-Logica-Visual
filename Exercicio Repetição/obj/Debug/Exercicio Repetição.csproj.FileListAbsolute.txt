@@ -1,0 +1,10 @@
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio Repetição\bin\Debug\Exercicio Repetição.exe.config
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio Repetição\bin\Debug\Exercicio Repetição.exe
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio Repetição\bin\Debug\Exercicio Repetição.pdb
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio Repetição\obj\Debug\Exercicio Repetição.csprojAssemblyReference.cache
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio Repetição\obj\Debug\Exercicio_Repetição.Form1.resources
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio Repetição\obj\Debug\Exercicio_Repetição.Properties.Resources.resources
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio Repetição\obj\Debug\Exercicio Repetição.csproj.GenerateResource.cache
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio Repetição\obj\Debug\Exercicio Repetição.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio Repetição\obj\Debug\Exercicio Repetição.exe
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio Repetição\obj\Debug\Exercicio Repetição.pdb
