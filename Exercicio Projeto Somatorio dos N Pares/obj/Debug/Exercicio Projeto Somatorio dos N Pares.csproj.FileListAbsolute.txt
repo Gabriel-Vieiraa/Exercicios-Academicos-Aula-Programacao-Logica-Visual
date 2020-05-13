@@ -1,0 +1,10 @@
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio Projeto Somatorio dos N Pares\bin\Debug\Exercicio Projeto Somatorio dos N Pares.exe.config
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio Projeto Somatorio dos N Pares\bin\Debug\Exercicio Projeto Somatorio dos N Pares.exe
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio Projeto Somatorio dos N Pares\bin\Debug\Exercicio Projeto Somatorio dos N Pares.pdb
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio Projeto Somatorio dos N Pares\obj\Debug\Exercicio Projeto Somatorio dos N Pares.csprojAssemblyReference.cache
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio Projeto Somatorio dos N Pares\obj\Debug\Exercicio_Projeto_Somatorio_dos_N_Pares.Form1.resources
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio Projeto Somatorio dos N Pares\obj\Debug\Exercicio_Projeto_Somatorio_dos_N_Pares.Properties.Resources.resources
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio Projeto Somatorio dos N Pares\obj\Debug\Exercicio Projeto Somatorio dos N Pares.csproj.GenerateResource.cache
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio Projeto Somatorio dos N Pares\obj\Debug\Exercicio Projeto Somatorio dos N Pares.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio Projeto Somatorio dos N Pares\obj\Debug\Exercicio Projeto Somatorio dos N Pares.exe
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio Projeto Somatorio dos N Pares\obj\Debug\Exercicio Projeto Somatorio dos N Pares.pdb
