@@ -1,0 +1,10 @@
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio AVA vetores e Matrizes\bin\Debug\Exercicio AVA vetores e Matrizes.exe.config
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio AVA vetores e Matrizes\bin\Debug\Exercicio AVA vetores e Matrizes.exe
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio AVA vetores e Matrizes\bin\Debug\Exercicio AVA vetores e Matrizes.pdb
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio AVA vetores e Matrizes\obj\Debug\Exercicio AVA vetores e Matrizes.csprojAssemblyReference.cache
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio AVA vetores e Matrizes\obj\Debug\Exercicio_AVA_vetores_e_Matrizes.Form1.resources
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio AVA vetores e Matrizes\obj\Debug\Exercicio_AVA_vetores_e_Matrizes.Properties.Resources.resources
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio AVA vetores e Matrizes\obj\Debug\Exercicio AVA vetores e Matrizes.csproj.GenerateResource.cache
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio AVA vetores e Matrizes\obj\Debug\Exercicio AVA vetores e Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio AVA vetores e Matrizes\obj\Debug\Exercicio AVA vetores e Matrizes.exe
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\Exercicio AVA vetores e Matrizes\obj\Debug\Exercicio AVA vetores e Matrizes.pdb
