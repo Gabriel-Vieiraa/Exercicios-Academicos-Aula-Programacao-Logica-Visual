@@ -1,0 +1,9 @@
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\JogoMemoria\bin\Debug\JogoMemoria.exe.config
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\JogoMemoria\bin\Debug\JogoMemoria.exe
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\JogoMemoria\bin\Debug\JogoMemoria.pdb
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\JogoMemoria\obj\Debug\JogoMemoria.csprojAssemblyReference.cache
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\JogoMemoria\obj\Debug\JogoMemoria.Properties.Resources.resources
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\JogoMemoria\obj\Debug\JogoMemoria.csproj.GenerateResource.cache
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\JogoMemoria\obj\Debug\JogoMemoria.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\JogoMemoria\obj\Debug\JogoMemoria.exe
+C:\Users\Gabriel Vieira\source\repos\Exercicios-Academicos-Aula-Programacao-Logica-Visual\JogoMemoria\obj\Debug\JogoMemoria.pdb
